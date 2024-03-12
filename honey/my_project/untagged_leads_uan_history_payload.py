@@ -63,7 +63,7 @@ def main_url_payload():
                                 {
                                     "condition": "NOT_EQUALS",
                                     "data": [
-                                       Peraon data 
+                                       Person data 
                                     ],
                                     "eventType": "Tag",
                                     "field": {
