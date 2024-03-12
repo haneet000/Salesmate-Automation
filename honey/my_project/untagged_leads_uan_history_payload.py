@@ -63,21 +63,7 @@ def main_url_payload():
                                 {
                                     "condition": "NOT_EQUALS",
                                     "data": [
-                                        "Amit Mittal",
-                                        "Jairaj Singh Rathore",
-                                        "Abhishek Kumar",
-                                        "Sunil Kumar",
-                                        "Yash Sonkar",
-                                        "Ayush Verma",
-                                        "Seemakshi Gautam",
-                                        "Anjali Sharma",
-                                        "Jairaj OG",
-                                        "Richa",
-                                        "Riya Tyagi",
-                                        "Madhur Sadana",
-                                        "Sanidhya Arora",
-                                        "Jyotsana Chandoliya",
-                                        "Abhishek Verma"
+                                       Peraon data 
                                     ],
                                     "eventType": "Tag",
                                     "field": {
