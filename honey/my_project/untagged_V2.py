@@ -116,13 +116,13 @@ class Uan_history_untagged():
         }
 
     uan_header = {
-        'Authorization': 'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcwNDE3MzA4NiwianRpIjoiMzlhNDY3MGItMzE4ZC00MzJiLWEyNDktOGQyMDFlNmFhZjM1IiwidHlwZSI6ImFjY2VzcyIsImlkZW50aXR5IjoiZGV2LmNvbnNvbGVfMnRreXR5NmR1ajFkbWdwM3hqMHJybDFpeGd4QHN1cmVwYXNzLmlvIiwibmJmIjoxNzA0MTczMDg2LCJleHAiOjE3MTI4MTMwODYsInVzZXJfY2xhaW1zIjp7InNjb3BlcyI6WyJ1c2VyIl19fQ.hGzhXkxYNsTymBbUKWUrY94UifQWu4wrMyF4hDef57Q',
+        'Authorization': 'Bearer Add your token',
         'Content-Type': 'application/json'
     }
 
     phone_to_full_name_headers = {
         'Content-Type': 'application/json',
-        'Authorization': 'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcwOTM2NDIzNywianRpIjoiNmZjNmUyMjAtNGQyZC00YTBjLWJmNWQtOTMzNTZhNjMyODNiIiwidHlwZSI6ImFjY2VzcyIsImlkZW50aXR5IjoiZGV2LnVzZXJuYW1lXzJ0a3l0dTdpdGtna20yejIydnJlbHVzZ2FnZ0BzdXJlcGFzcy5pbyIsIm5iZiI6MTcwOTM2NDIzNywiZXhwIjoyMDI0NzI0MjM3LCJ1c2VyX2NsYWltcyI6eyJzY29wZXMiOlsidXNlciJdfX0.DOrXAK3_6WGMdJfnWE3p002qVqqLMNst7lP3SRjMdrQ'
+        'Authorization': 'Bearer Add your token
     }
 
     main_payload = main_url_payload()
