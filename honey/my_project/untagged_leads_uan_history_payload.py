@@ -37,7 +37,7 @@ def main_url_payload():
                     {
                         "condition": "EQUALS",
                         "data": {
-                            "group": "Surepass",
+                            "group": "GROUP NAME",
                             "value": "Initalized"
                         },
                         "field": {
